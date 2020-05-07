@@ -1,2 +1,2 @@
 # ParallelMethods
-Simple experiment on how is multiprocessing faster than multithreading in some calculation.
+Simple experiment on how multiprocessing is faster than multithreading in some calculation.
